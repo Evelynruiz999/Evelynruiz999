@@ -11,3 +11,9 @@
 - 💻: Estoy aprendiendo a trabajar en Rstudio.
 - 📊: Mi primer y por ahora, único repositorio es una compilación de mis laboratorios realizados en clase. 😅
 - 😄: Quiero seguir desarrollando mis conocimientos de Rstudio. 
+<Br>
+<hr>
+<Br>
+<h1>Mi Proyecto Integrador de Aprendizaje!💻</h1>
+<Br>
+[![ReadMe Card]
