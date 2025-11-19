@@ -40,9 +40,4 @@
 </p>
 <p align="center">
 
-| Actividad de mi repositorio Met_Est_2025 | 
-| ----------- | ----------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1033276758&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=1033276758&image_size=auto" /> |
-
-</p>
-
+<img src="https://next.ossinsight.io/widgets/official/repo-activity-histories/thumbnail.png?repo_id=1033276758&image_size=auto" />
