@@ -16,8 +16,4 @@
 <Br>
 <h1>Mi Proyecto Integrador de Aprendizaje!💻</h1>
 <Br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Evelynruiz999&repo=Met_Est_2025)](https://github.com/Evelynruiz999/Met_Est_2025.git)
-
-<Br>
-<hr>
-<Br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Evelynruiz999&repo=Met_Est_2025)](https://github.com/Evelynruiz999/Met_Est_2025)
