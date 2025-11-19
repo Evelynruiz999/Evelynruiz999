@@ -20,3 +20,21 @@
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Evelynruiz999&repo=Met_Est_2025)](https://github.com/Evelynruiz999/Met_Est_2025)
+<Br>
+<hr>
+<Br>
+<h1>Mis estadísticas! 📊</h1>
+<Br>
+  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Evelynruiz999&show_icons=true&theme=merko&hide_border=true"
+    alt="Mis estadísticas"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelynruiz999&layout=compact&theme=merko&hide_border=true"
+    alt="Lenguajes más usados por Evelyn"
+    height="170"
+  />
+</p>
