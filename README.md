@@ -11,9 +11,12 @@
 - 💻: Estoy aprendiendo a trabajar en Rstudio.
 - 📊: Mi primer y por ahora, único repositorio es una compilación de mis laboratorios realizados en clase. 😅
 - 😄: Quiero seguir desarrollando mis conocimientos de Rstudio. 
-<Br>
+<br>
 <hr>
-<Br>
+<br>
+
 <h1>Mi Proyecto Integrador de Aprendizaje!💻</h1>
-<Br>
+
+<br>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Evelynruiz999&repo=Met_Est_2025)](https://github.com/Evelynruiz999/Met_Est_2025)
