@@ -40,4 +40,18 @@
 </p>
 <p align="center">
 
-<img src="https://next.ossinsight.io/widgets/official/repo-activity-histories/thumbnail.png?repo_id=1033276758&image_size=auto" />
+## 📊 Actividad de mi repositorio *Met_Est_2025*
+
+<p align="center">
+
+  <img alt="Activity Trends" title="Tendencias de actividad" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1033276758&image_size=auto" width="450" />
+
+  <br><br>
+
+  <img alt="Commits por día" title="Commits por día" src="https://next.ossinsight.io/widgets/official/repo-activity-histories/thumbnail.png?repo_id=1033276758&image_size=auto" width="450" />
+
+  <br><br>
+
+  <img alt="Lenguajes usados" title="Lenguajes usados en el repo" src="https://next.ossinsight.io/widgets/official/language-trend/thumbnail.png?repo_id=1033276758&image_size=auto" width="450" />
+
+</p>
